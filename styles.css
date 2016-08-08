@@ -1,0 +1,35 @@
+/* add your CSS here */
+<style>
+body {
+	font-family: Ariel;
+}
+.italic {
+    font-style: italic;
+}
+.label{
+	font-weight: bold;
+}
+p.one {
+    border-style: solid;
+    border-width: 5px;
+}
+ .border{
+    width: 300px;
+	border: 1px solid #d3d3d3 ;
+    padding: 2px
+ }
+  .outborder{
+    width: 300px;
+	border: 2px solid	#d3d3d3 ;
+    padding: 15px;
+	
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+ }
+ .picture {
+            border-style: lighter;
+			border: 1px solid	#d3d3d3 ;
+			padding: 2px;
+        }
+</style>
